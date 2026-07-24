@@ -276,3 +276,15 @@ You are free to use, modify, and distribute this project with proper attribution
 
 
 
+---
+
+## 📸 Project Preview
+
+![Color_Match Circuit](images/circuit.jpg)
+
+## 🎥 Demo Video
+
+[Watch the gameplay demo](video/demo.mp4)
+
+
+
